@@ -1,0 +1,2 @@
+This is a first project using version control Azure DevOps.
+It contains a python 3.6 file.
